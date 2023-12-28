@@ -5,7 +5,7 @@
 - [Data Cleaning/Preparation](https://github.com/Phatolic/HR#data-cleaningpreparation)
 - [Data Analysis](https://github.com/Phatolic/HR#data-analysis)
 - [Dashboard](https://github.com/Phatolic/HR#dashboarding)
-- [Results]()
+- [Results](https://github.com/Phatolic/HR#results)
 - [Limitations](https://github.com/Phatolic/HR#results#limitations)
 
 ### Project Overview
@@ -98,7 +98,7 @@ This data analysis project aims to provide insights into the attrition rate of a
 - Add slicers.
   
     ![Dashboard](https://github.com/Phatolic/HR/assets/144981161/54b19efc-6613-4537-850a-3db62ffe4a18)
-
+  
 ---
 ### Results
 
