@@ -9,7 +9,7 @@
 
 ### Project Overview
 
-This data analysis project aims to provide insights into the attrition rate of a healthcare company with nearly 3,000 employess. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's human resources.  
+This data analysis project aims to provide insights into the attrition rate of a healthcare company with nearly 3,000 employess. By analyzing various aspects of the employees data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's human resources.  
 
 ---
 ### Data Sources
