@@ -1,4 +1,11 @@
 # HR Attrition Dashboard
+## Tables of Contents
+- [Project Overview](https://github.com/Phatolic/HR#project-overview)
+- [Data Sources](https://github.com/Phatolic/HR#data-sources)
+- [Data Cleaning/Preparation](https://github.com/Phatolic/HR#data-cleaningpreparation)
+- [Data Analysis](https://github.com/Phatolic/HR#data-analysis)
+- [Dashboard](https://github.com/Phatolic/HR#dashboarding)
+- [Limitations](https://github.com/Phatolic/HR#results#limitations)
 
 ### Project Overview
 
@@ -41,7 +48,7 @@ This data analysis project aims to provide insights into the attrition rate of a
 - Distance Status: Derived from column Distance From Home with less than or equals to 10 is Near-by, more than 10 and less than or equals to 20 is Far, and more than 20 is Very-far.
   
 ---
-### Data Analysis with Pivot Tables  
+### Data Analysis   
 <b>- Pivot tables created in Analysis tab in the workbook.  </b>  
 
 > Analysis the employees has left the company. (Attrition column value is Yes)
