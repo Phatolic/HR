@@ -96,8 +96,8 @@ This data analysis project aims to provide insights into the attrition rate of a
 - Format the charts and build the dashboard.  
 - Add slicers.
   
-    ![Dashboard](https://github.com/Phatolic/HR/assets/144981161/ac85c00d-4acc-453f-a488-76584235e58c)
-
+    ![Dashboard](https://github.com/Phatolic/HR/assets/144981161/54b19efc-6613-4537-850a-3db62ffe4a18)
+   
 ### Results
 
 <b>-> </b>The high-performed employees are more likely to leave the company than the low_performed ones with 413 employees compared to only 79, respectively. That is accounted for nearly 84% of the left employees.  
