@@ -5,6 +5,7 @@
 - [Data Cleaning/Preparation](https://github.com/Phatolic/HR#data-cleaningpreparation)
 - [Data Analysis](https://github.com/Phatolic/HR#data-analysis)
 - [Dashboard](https://github.com/Phatolic/HR#dashboarding)
+- [Results]()
 - [Limitations](https://github.com/Phatolic/HR#results#limitations)
 
 ### Project Overview
@@ -97,7 +98,8 @@ This data analysis project aims to provide insights into the attrition rate of a
 - Add slicers.
   
     ![Dashboard](https://github.com/Phatolic/HR/assets/144981161/54b19efc-6613-4537-850a-3db62ffe4a18)
-   
+
+---
 ### Results
 
 <b>-> </b>The high-performed employees are more likely to leave the company than the low_performed ones with 413 employees compared to only 79, respectively. That is accounted for nearly 84% of the left employees.  
@@ -107,6 +109,8 @@ This data analysis project aims to provide insights into the attrition rate of a
 <b>-> </b>Males from every age groups tend to leave the company more frequently than the females.
 
 ##### It seems the issue is more company-generated. Should check again the policies for employees and related resources.
+
+---
 ### Limitations
 
 - Suggest to look into the environment satisfaction of the employees.
